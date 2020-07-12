@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/uim-cloud
+uim-cloud.so
+uim-cloud.dylib
+uim-cloud.dll
+uim-cloud.a
+uim-cloud.lib
+uim-cloud-test-*
+*.exe
+*.o
+*.obj
+*.lst
