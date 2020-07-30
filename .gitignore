@@ -13,3 +13,4 @@ uim-cloud-test-*
 *.o
 *.obj
 *.lst
+dub.selections.json

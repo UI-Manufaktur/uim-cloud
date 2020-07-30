@@ -1,9 +1,25 @@
 {
-	"authors": [
-		"Ozan"
-	],
-	"copyright": "Copyright © 2020, Ozan",
-	"description": "A minimal D application.",
-	"license": "proprietary",
-	"name": "uim-cloud"
+    "authors": ["UI Manufaktur Team"],
+    "copyright": "Copyright © 2017-2020, UI Manufaktur UG (haftungsbeschränkt)",
+    "description": "A D library for cloud projects",
+    "targetType": "library",
+    "license": "MIT",
+    "name": "uim-html",
+    "dependencies": {
+        "vibe-d": "~>0.9.0"
+    },
+    "sourcePaths": [
+        "../../LIBS/uim-core",
+        "../../LIBS/uim-oop",
+        "../../LIBS/uim-json",
+        "../../LIBS/uim-javascript",
+        "./"
+    ],
+    "importPaths": [
+        "../../LIBS/uim-core",
+        "../../LIBS/uim-oop",
+        "../../LIBS/uim-javascript",
+        "../../LIBS/uim-json",
+        "./"
+    ]
 }
